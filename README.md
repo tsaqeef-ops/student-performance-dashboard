@@ -1,4 +1,4 @@
-# 📊 Student Performance Analytics Dashboard
+# 📊 Academic Performance KPI Analytics Dashboard
 
 This project analyzes student academic performance data to identify which factors influence exam scores. The workflow includes data cleaning in Excel, exploratory analysis using pivot tables, and visualization through an interactive Power BI dashboard.
 
